@@ -1,0 +1,1 @@
+export const activities = ['reading', 'work'] as const;
